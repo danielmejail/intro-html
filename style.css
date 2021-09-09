@@ -48,13 +48,11 @@ img {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     margin: 50px;
 }
-/*
+
 ul {
     list-style-type: none;
-    /*
     grid-row-start: 2;
     grid-column-start: 2;
-    */
     width: 200px;
     font-size: 14pt;
 } 
@@ -70,7 +68,7 @@ ul:before {
 li {
     padding-top: 10px;
 }
-*/
+
 a {
     color: rgb(28, 33, 104);
     display: inline-block;
